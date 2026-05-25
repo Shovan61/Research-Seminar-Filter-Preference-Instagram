@@ -429,7 +429,7 @@ Transfer Learning: Pan, S. J., & Yang, Q. (2010). A Survey on Transfer Learning.
 ImageNet: Deng, J., et al. (2009). ImageNet: A Large-Scale Hierarchical Image Database. CVPR.
 
 👥 Authors
-Your Name - Initial work
+Shovan Mazumder
 
 Audiovisual Technology Group, TU Ilmenau
 
